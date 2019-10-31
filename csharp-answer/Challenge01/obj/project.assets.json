@@ -1,0 +1,43 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\kopihitam\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\kopihitam\\Downloads\\csharp-challenges\\Challenge01\\YourName.csproj",
+      "projectName": "YourName",
+      "projectPath": "C:\\Users\\kopihitam\\Downloads\\csharp-challenges\\Challenge01\\YourName.csproj",
+      "packagesPath": "C:\\Users\\kopihitam\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\kopihitam\\Downloads\\csharp-challenges\\Challenge01\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\kopihitam\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {}
+    }
+  }
+}
